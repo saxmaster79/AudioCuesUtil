@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "AudioCuesUtil WriteToZip": {
+      "commandName": "Project",
+      "commandLineArgs": "WriteToZip --zipfile \"C:\\Temp\\12a BackupTest.zip\""
+    },
+    "AudioCuesUtil ReadExcelFromTxt": {
+      "commandName": "Project",
+      "commandLineArgs": "ReadExcelFromTxt --txtfile \"C:\\Users\\benno\\Dropbox\\Georgsbühne\\2024 Das perfekte Geheimnis\\Ton\\Das perfekte Geheimnis Backup22.txt\""
+    },
+    "WriteTxtFromExcel": {
+      "commandName": "Project",
+      "commandLineArgs": "WriteTxtFromExcel --excelFile \"C:\\Users\\benno\\Dropbox\\Georgsbühne\\2024 Das perfekte Geheimnis\\Ton\\Export.xlsx\" --txtfile \"C:\\Users\\benno\\Dropbox\\Georgsbühne\\2024 Das perfekte Geheimnis\\Ton\\Das perfekte Geheimnis test.txt\" --addTimestamp"
+    },
+    "ReadExcelFromZip": {
+      "commandName": "Project",
+      "commandLineArgs": "ReadExcelFromZip --zipfile \"C:\\Users\\benno\\Google Drive\\Georgsbühne\\Das perfekte Geheimnis Ton\\Das perfekte Geheimnis Backup.zip\""
+    }
+  }
+}
