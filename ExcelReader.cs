@@ -1,5 +1,4 @@
-﻿
-using SpreadsheetLight;
+﻿using SpreadsheetLight;
 
 namespace AudioCuesUtil;
     public class ExcelReader
