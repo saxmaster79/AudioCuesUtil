@@ -1,9 +1,5 @@
 {
   "profiles": {
-    "WSL": {
-      "commandName": "WSL2",
-      "distributionName": ""
-    },
     "AudioCuesUtil WriteToZip": {
       "commandName": "Project",
       "commandLineArgs": "WriteToZip --zipfile \"C:\\Temp\\12a BackupTest.zip\""
